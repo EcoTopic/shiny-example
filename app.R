@@ -1,5 +1,6 @@
 library(shiny)
-library(tidyverse)
+library(dplyr)
+library(readr)
 
 # Feature_A <- c(1, 2,1, 4,2)
 # Feature_B <- c(4,5,6,6,6)
